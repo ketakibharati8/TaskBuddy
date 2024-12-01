@@ -5,4 +5,4 @@ Features:
 Create, edit, and delete tasks with ease.
 
 Technologiea:
-Javascript, React.js, MongoDB
+Javascript, React.js,Express.js, Node.js, MongoDB
