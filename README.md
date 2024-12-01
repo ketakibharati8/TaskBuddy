@@ -3,6 +3,22 @@ The TaskBuddy is a versatile tool for productivity that combines tasks, to-do li
 
 Features:
 Create, edit, and delete tasks with ease.
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- User authentication (if implemented)
 
-Technologiea:
+
+Technologies:
 Javascript, React.js,Express.js, Node.js, MongoDB
+- Node.js : Backend runtime environment 
+- Express.js : Webframework for node.js
+- MongoDB : NoSql database
+- React : Use for frontend
+
+
+Setup Instructions:
+To run the TaskBuddy locally, follow these steps:
+1. Clone the repository
+2. Install dependencies
+3. Set up environment variables
